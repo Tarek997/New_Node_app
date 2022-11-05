@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "move-file": "^3.0.0",
+    "type":"module"
+  }
+}
